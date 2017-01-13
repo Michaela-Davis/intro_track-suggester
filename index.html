@@ -28,7 +28,21 @@
         </div>
         <br>
 
-        <!-- Question #3: Location: radio buttons: 1)Portland 2)Seattle 3)Philadelphia -->
+        <!-- Question #3: Which Epicodus location would you like to attend?: radio buttons: 1)Portland 2)Seattle 3)Philadelphia -->
+        <div class="form-group">
+          <h2>Which Epicodus location would you like to attend?</h2>
+          <label for="location">
+          <input id="portland" class="form-control location" type="radio" name="portland-seattle-philidelphia" value="portland">
+              Portland</label>
+          <label for="location">
+          <input id="seattle" class="form-control location" type="radio" name="portland-seattle-philidelphia" value="seattle">
+              Seattle</label>
+          <label for="location">
+          <input id="philidelphia" class="form-control location" type="radio" name="portland-seattle-philidelphia" value="philidelphia">
+              Philidelphia</label>
+
+        </div>
+        <br>
 
 
         <!-- Question #4: Front/Back End:  radio buttons: 1)Front-end(*return CSS/Design) 2)Backend -->
@@ -36,10 +50,10 @@
           <h2>Do you prefer front-end or back-end?</h2>
           <h4>*Front-end developers spend their time making things look and work well, obsessing over layouts, navigation, colors, and design.<br>*Back-end developers spend their time working with configuration, databases, servers, and APIs.</h4>
           <label for="end">
-          <input id="front" class="form-control end" type="radio" name="front-end" value="front">
+          <input id="front" class="form-control end" type="radio" name="front-back" value="front">
               Front-end</label>
           <label for="end">
-          <input id="back" class="form-control end" type="radio" name="front-end" value="back">
+          <input id="back" class="form-control end" type="radio" name="front-back" value="back">
               Back-end</label>
         </div>
         <br>
