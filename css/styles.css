@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Bad Script', cursive;
+}
+
+h4 {
+  padding-left: 20px;
+  font-size: 130%;
+}
+
+.form-group {
+  font-size: 130%;
+  padding: 10px;
+}
+
+.well {
+  background-color: teal;
+}
