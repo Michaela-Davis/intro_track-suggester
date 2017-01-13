@@ -1,6 +1,6 @@
-# _Michaela's Portfolio_
+# _Epicodus Track Suggester_
 
-#### _Celebrity Dating, 1.12.17_
+#### _Track Suggester, 1.13.17_
 
 #### By _**Michaela Davis**_
 
