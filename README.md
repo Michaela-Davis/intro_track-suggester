@@ -5,7 +5,7 @@
 #### By _**Michaela Davis**_
 
 ## GitHub Pages Link
-https://michaela-davis.github.io/into_track-suggester/
+https://michaela-davis.github.io/intro_track-suggester/
 
 ## Description
 
